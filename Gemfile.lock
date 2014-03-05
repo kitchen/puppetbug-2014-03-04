@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    facter (1.7.5)
+    puppet (2.7.20)
+      facter (~> 1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  puppet (= 2.7.20)
